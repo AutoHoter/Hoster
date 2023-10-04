@@ -1,0 +1,20 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "Open-source Flask API Server",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/twinstarhub/backend"
+    },
+    "bugs": {
+        "url": "https://github.com/twinstarhub/backend/issues",
+        "email": "support@twinstar.us"
+    },
+    "author": "twinstar App Generator <support@twinstar.us> (https://twinstar.us)",
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
